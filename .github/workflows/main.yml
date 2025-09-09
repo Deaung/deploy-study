@@ -15,5 +15,5 @@ jobs:
       - name: checkout
         uses: action/checkout@v5
         
-      - name: dir list print1
+      - name: dir list print2
         run: ls - a
